@@ -1,0 +1,4 @@
+server.port=1003
+
+# don't get register automatically
+eureka.client.register-with-eureka=false

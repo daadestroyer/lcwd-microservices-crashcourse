@@ -1,0 +1,5 @@
+package com.daadestroyer.userservice.controller;
+
+public class ContactController {
+
+}

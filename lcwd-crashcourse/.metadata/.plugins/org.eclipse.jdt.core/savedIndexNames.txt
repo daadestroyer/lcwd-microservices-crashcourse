@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+/Users/apple/Documents/Java/Spring/microservice/lcwd-crashcourse/.metadata/.plugins/org.eclipse.jdt.core
+1999130026.index
+1469408487.index
+746720881.index
+2365717164.index
+400650685.index
+1656613612.index
+2843498760.index
+754926009.index
+3647436721.index
+473823302.index
+760230174.index
+2040733095.index
+3304302733.index
+3963051758.index
+1865797976.index
+262327877.index
+1403717232.index
+4081884435.index
+3274382700.index
+3075083288.index
+2614002474.index
+652144874.index
+1796994773.index
+930773323.index

@@ -1,0 +1,10 @@
+package com.daadestroyer.userservice.entity;
+
+public class Contacts {
+	
+	private Long cId;
+	private String email;
+	private String contactName;
+	private Long userId;
+
+}

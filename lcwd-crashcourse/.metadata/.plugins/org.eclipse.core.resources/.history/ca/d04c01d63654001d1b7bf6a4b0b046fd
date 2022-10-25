@@ -1,0 +1,9 @@
+package com.daadestroyer.userservice.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RestController
+@RequestMapping("/contact")
+public class ContactController {
+
+}

@@ -1,0 +1,5 @@
+package com.daadestroyer.userservice.service;
+
+public class ContactService {
+
+}

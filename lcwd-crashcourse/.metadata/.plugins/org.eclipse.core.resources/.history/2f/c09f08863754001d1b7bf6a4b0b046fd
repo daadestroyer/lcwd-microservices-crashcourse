@@ -1,0 +1,15 @@
+package com.daadestroyer.userservice.service;
+
+import java.util.List;
+
+import com.daadestroyer.userservice.entity.Contacts;
+
+public class ContactService {
+
+	List<Contacts> contacts = Arrays.asList(
+			new Contacts(1L, null, "Pulkit Nagar", 1311L),
+			new Contacts(2L, null, "Vatsal Patel", 1311L),
+			new Contacts(3L, null, "Anshul Goyal", null),
+			new Contacts(4L, null, "Saurav Kumar", 1311L)
+			); 
+}
